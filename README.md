@@ -14,3 +14,6 @@ Dies ist eine Forschungs- und Dokumentationsplattform. Die enthaltenen Informati
 
 ## Kontakt
 Weitere Informationen finden Sie im Repository: https://shorturl.at/K92a0
+
+## Weitere Ressourcen
+Siehe auch [SHORTURL.md](SHORTURL.md) für weitere interessante Seiten und Beweismaterial.
